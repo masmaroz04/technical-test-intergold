@@ -1,0 +1,20 @@
+# Claude Code local settings
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database
+*.db
+
+# Java / Maven
+part2/target/
+part2/out/
+part2_3/target/
+part2_3/out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
