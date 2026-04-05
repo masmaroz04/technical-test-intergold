@@ -1,6 +1,3 @@
-# Claude Code local settings
-.claude/
-
 # Python
 __pycache__/
 *.pyc
@@ -10,8 +7,6 @@ __pycache__/
 *.db
 
 # Java / Maven
-part2/target/
-part2/out/
 part2_3/target/
 part2_3/out/
 
